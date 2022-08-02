@@ -1,2 +1,2 @@
 # Data-analysis
-I will shere here all my solutions during my data science with Python course
+Throughout my data science with Python course, I will post all of my solutions here.
