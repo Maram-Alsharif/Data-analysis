@@ -1,24 +1,4 @@
 
-# coding: utf-8
-
-# ---
-# 
-# _You are currently looking at **version 1.1** of this notebook. To download notebooks and datafiles, as well as get help on Jupyter notebooks in the Coursera platform, visit the [Jupyter Notebook FAQ](https://www.coursera.org/learn/python-social-network-analysis/resources/yPcBs) course resource._
-# 
-# ---
-
-# # Assignment 1 - Creating and Manipulating Graphs
-# 
-# Eight employees at a small company were asked to choose 3 movies that they would most enjoy watching for the upcoming company movie night. These choices are stored in the file `Employee_Movie_Choices.txt`.
-# 
-# A second file, `Employee_Relationships.txt`, has data on the relationships between different coworkers. 
-# 
-# The relationship score has value of `-100` (Enemies) to `+100` (Best Friends). A value of zero means the two employees haven't interacted or are indifferent.
-# 
-# Both files are tab delimited.
-
-# In[ ]:
-
 
 import networkx as nx
 import pandas as pd
