@@ -1,2 +1,1 @@
-# Data-analysis
-Throughout my data science with Python course, I will post all of my solutions here.
+Here you will find all of my data science with Python projects that I have completed during my course with Coursera.
