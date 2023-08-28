@@ -1,8 +1,6 @@
 Here you will find all of my data science with Python projects that I have completed during my course with Coursera.
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
+
 
 ###
 
